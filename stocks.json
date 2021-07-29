@@ -1678,5 +1678,12 @@
         "name": "Unilever Nepal Limited",
         "sector": "Manufacturing And Processing",
         "symbol": "UNL"
+    },
+    {
+        "id": 241,
+        "instrument": "Equity",
+        "name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol": "JBLB"
     }
 ]
