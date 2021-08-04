@@ -1685,5 +1685,19 @@
         "name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd.",
         "sector": "Microfinance",
         "symbol": "JBLB"
+    },
+    {
+        "id": 242,
+        "instrument": "Equity",
+        "name": "Union Life Insurance Company Limited",
+        "sector": "Life Insurance",
+        "symbol": "ULI"
+    },
+    {
+        "id": 243,
+        "instrument": "Equity",
+        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "symbol": "MKLB"
     }
 ]
