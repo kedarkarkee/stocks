@@ -1706,5 +1706,26 @@
         "name": "Sanima Life Insurance Limited",
         "sector": "Life Insurance",
         "symbol": "SLI"
+    },
+    {
+        "id": 245,
+        "instrument": "Mutual Funds",
+        "name": "NIC Asia Select Fund 30",
+        "sector": "Mutual Fund",
+        "symbol": "NICSF"
+    },
+    {
+        "id": 246,
+        "instrument": "Equity",
+        "name": "Mailung Khola Jal Vidhyut Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "MKJC"
+    },
+    {
+        "id": 247,
+        "instrument": "Equity",
+        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "MLBS"
     }
 ]
