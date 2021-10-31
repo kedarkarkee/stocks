@@ -1727,5 +1727,19 @@
         "name": "Manushi Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "MLBS"
+    },
+    {
+        "id": 248,
+        "instrument": "Equity",
+        "name": "Sahas Urja Limited",
+        "sector": "Hydro Power",
+        "symbol": "SAHAS"
+    },
+    {
+        "id": 249,
+        "instrument": "Equity",
+        "name": "Terhathum Power Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "TPC"
     }
 ]
