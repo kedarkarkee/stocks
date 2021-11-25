@@ -1493,9 +1493,9 @@
     {
         "id": 214,
         "instrument": "Equity",
-        "name": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+        "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
-        "symbol": "SNLB"
+        "symbol": "NSLB"
     },
     {
         "id": 215,
@@ -1741,5 +1741,19 @@
         "name": "Terhathum Power Company Limited",
         "sector": "Hydro Power",
         "symbol": "TPC"
+    },
+    {
+        "id": 250,
+        "instrument": "Equity",
+        "name": "Nyadi Hydropower Limited",
+        "sector": "Hydro Power",
+        "symbol": "NYADI"
+    },
+    {
+        "id": 251,
+        "instrument": "Equity",
+        "name": "Samling Power Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "SPC"
     }
 ]
