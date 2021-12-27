@@ -1755,5 +1755,12 @@
         "name": "Samling Power Company Limited",
         "sector": "Hydro Power",
         "symbol": "SPC"
+    },
+    {
+        "id": 252,
+        "instrument": "Equity",
+        "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "MBJC"
     }
 ]
