@@ -1762,5 +1762,12 @@
         "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
         "sector": "Hydro Power",
         "symbol": "MBJC"
+    },
+    {
+        "id": 253,
+        "instrument": "Equity",
+        "name": "Buddha Bhumi Nepal Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "BNHC"
     }
 ]
