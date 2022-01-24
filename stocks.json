@@ -1769,5 +1769,12 @@
         "name": "Buddha Bhumi Nepal Hydropower Company Limited",
         "sector": "Hydro Power",
         "symbol": "BNHC"
+    },
+    {
+        "id": 254,
+        "instrument": "Equity",
+        "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "WNLB"
     }
 ]
