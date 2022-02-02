@@ -1776,5 +1776,13 @@
         "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "WNLB"
+    },
+{
+        "id": 255,
+        "instrument": "Mutual Funds",
+        "name": "Nabil Balanced Fund-3",
+        "sector": "Mutual Fund",
+        "symbol": "NBF3"
     }
+
 ]
