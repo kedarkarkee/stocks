@@ -1783,5 +1783,12 @@
         "name": "Nabil Balanced Fund-3",
         "sector": "Mutual Fund",
         "symbol": "NBF3"
+    },
+    {
+        "id": 8034,
+        "instrument": "Equity",
+        "name": "Emerging Nepal Limited",
+        "sector": "Investment",
+        "symbol": "ENL"
     }
 ]
