@@ -168,7 +168,7 @@
         "symbol": "ICFC"
     },
     {
-        "id": 25,
+        "id": 636,
         "instrument": "Mutual Funds",
         "name": "NIBL Samriddhi Fund 1",
         "sector": "Mutual Fund",
@@ -1811,5 +1811,12 @@
         "name": "Mega Mutual Fund -1",
         "sector": "Mutual Fund",
         "symbol": "MMF1"
+    },
+    {
+        "id": 4968,
+        "instrument": "Mutual Funds",
+        "name": "RBB Mutual Fund 1",
+        "sector": "Mutual Fund",
+        "symbol": "RMF1"
     }
 ]
