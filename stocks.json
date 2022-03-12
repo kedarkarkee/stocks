@@ -1790,5 +1790,19 @@
         "name": "Emerging Nepal Limited",
         "sector": "Investment",
         "symbol": "ENL"
+    },
+    {
+        "id": 8036,
+        "instrument": "Equity",
+        "name": "Rastra Utthan Laghubitta Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "RULB"
+    },
+    {
+        "id": 8038,
+        "instrument": "Equity",
+        "name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "JALPA"
     }
 ]
