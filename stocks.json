@@ -1804,5 +1804,12 @@
         "name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "JALPA"
+    },
+    {
+        "id": 8023,
+        "instrument": "Mutual Funds",
+        "name": "Mega Mutual Fund -1",
+        "sector": "Mutual Fund",
+        "symbol": "MMF1"
     }
 ]
