@@ -1818,5 +1818,12 @@
         "name": "RBB Mutual Fund 1",
         "sector": "Mutual Fund",
         "symbol": "RMF1"
+    },
+    {
+        "id": 8041,
+        "instrument": "Equity",
+        "name": "NESDO Sambridha Laghubitta Bittiye Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "NESDO"
     }
 ]
