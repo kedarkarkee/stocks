@@ -1825,5 +1825,12 @@
         "name": "NESDO Sambridha Laghubitta Bittiye Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "NESDO"
+    },
+    {
+        "id": 8045,
+        "instrument": "Equity",
+        "name": "Green Ventures Limited",
+        "sector": "Hydro Power",
+        "symbol": "GVL"
     }
 ]
