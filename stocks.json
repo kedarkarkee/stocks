@@ -1832,5 +1832,19 @@
         "name": "Green Ventures Limited",
         "sector": "Hydro Power",
         "symbol": "GVL"
+    },
+    {
+        "id": 8055,
+        "instrument": "Equity",
+        "name": "Balephi Hydropower Limited",
+        "sector": "Hydro Power",
+        "symbol": "BHL"
+    },
+    {
+        "id": 8063,
+        "instrument": "Equity",
+        "name": "Upakar Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "ULBSL"
     }
 ]
