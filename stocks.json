@@ -1846,5 +1846,19 @@
         "name": "Upakar Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "ULBSL"
+    },
+    {
+        "id": 8066,
+        "instrument": "Equity",
+        "name": "River Falls Power Limited",
+        "sector": "Hydro Power",
+        "symbol": "RFPL"
+    },
+    {
+        "id": 8027,
+        "instrument": "Non-Convertible Debentures",
+        "name": "Nabil Debenture 2085",
+        "sector": "Debenture",
+        "symbol": "NBLD85"
     }
 ]
