@@ -1860,5 +1860,26 @@
         "name": "Nabil Debenture 2085",
         "sector": "Debenture",
         "symbol": "NBLD85"
+    },
+    {
+        "id": 8068,
+        "instrument": "Non-Convertible Debentures",
+        "name": "Century Debenture 2088",
+        "sector": "Debenture",
+        "symbol": "CCBD88"
+    },
+    {
+        "id": 8070,
+        "instrument": "Equity",
+        "name": "Dordi Khola Jal Bidyut Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "DORDI"
+    },
+    {
+        "id": 8071,
+        "instrument": "Equity",
+        "name": "Adarsha Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "ADLB"
     }
 ]
