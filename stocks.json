@@ -1881,5 +1881,26 @@
         "name": "Adarsha Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "ADLB"
+    },
+    {
+        "id": 8073,
+        "instrument": "Mutual Funds",
+        "name": "NIC Asia Flexi CAP Fund",
+        "sector": "Mutual Fund",
+        "symbol": "NICFC"
+    },
+    {
+        "id": 8074,
+        "instrument": "Mutual Funds",
+        "name": "Kumari Dhanabriddhi Yojana",
+        "sector": "Mutual Fund",
+        "symbol": "KDBY"
+    },
+    {
+        "id": 8075,
+        "instrument": "Equity",
+        "name": "Bindhyabasini Hydropower Development Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "BHDC"
     }
 ]
