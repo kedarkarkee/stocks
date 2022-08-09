@@ -1902,5 +1902,12 @@
         "name": "Bindhyabasini Hydropower Development Company Limited",
         "sector": "Hydro Power",
         "symbol": "BHDC"
+    },
+    {
+        "id": 8076,
+        "instrument": "Equity",
+        "name": "Himalayan Hydropower Limited",
+        "sector": "Hydro Power",
+        "symbol": "HHL"
     }
 ]
