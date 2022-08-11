@@ -1909,5 +1909,12 @@
         "name": "Himalayan Hydropower Limited",
         "sector": "Hydro Power",
         "symbol": "HHL"
+    },
+    {
+        "id": 8099,
+        "instrument": "Equity",
+        "name": "Upper Hewakhola Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "UHEWA"
     }
 ]
