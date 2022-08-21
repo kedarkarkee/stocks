@@ -1916,5 +1916,26 @@
         "name": "Upper Hewakhola Hydropower Company Limited",
         "sector": "Hydro Power",
         "symbol": "UHEWA"
+    },
+    {
+        "id": 8100,
+        "instrument": "Equity",
+        "name": "Swet-Ganga Hydropower & Construction Limited",
+        "sector": "Hydro Power",
+        "symbol": "SGHC"
+    },
+    {
+        "id": 8102,
+        "instrument": "Equity",
+        "name": "Mandakini Hydropower Limited",
+        "sector": "Hydro Power",
+        "symbol": "MHL"
+    },
+    {
+        "id": 8104,
+        "instrument": "Equity",
+        "name": "Upper Solu Hydro Electric Company Limited",
+        "sector": "Hydro Power",
+        "symbol": "USHEC"
     }
 ]
