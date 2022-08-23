@@ -112,13 +112,6 @@
         "symbol": "NIBSF2"
     },
     {
-        "id": 2750,
-        "instrument": "Equity",
-        "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
-        "sector": "Microfinance",
-        "symbol": "SLBS"
-    },
-    {
         "id": 2872,
         "instrument": "Non-Convertible Debentures",
         "name": "10.50% SBL Debenture 2082",
@@ -205,9 +198,9 @@
     {
         "id": 706,
         "instrument": "Equity",
-        "name": "Womi Microfinance Bittiya Sanstha Ltd.",
+        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
-        "symbol": "WOMI"
+        "symbol": "SWMF"
     },
     {
         "id": 2755,
@@ -257,6 +250,13 @@
         "name": "Standard Chartered Bank Limited",
         "sector": "Commercial Bank",
         "symbol": "SCB"
+    },
+    {
+        "id": 134,
+        "instrument": "Equity",
+        "name": "Himalayan Bank Limited",
+        "sector": "Commercial Bank",
+        "symbol": "HBL"
     },
     {
         "id": 2815,
@@ -677,13 +677,6 @@
         "name": "12 % Goodwill Finance Limited Debenture 2083",
         "sector": "Debenture",
         "symbol": "GWFD83"
-    },
-    {
-        "id": 2783,
-        "instrument": "Equity",
-        "name": "Rairang Hydropower Development Company Ltd.",
-        "sector": "Hydro Power",
-        "symbol": "RRHP"
     },
     {
         "id": 2864,
@@ -1288,13 +1281,6 @@
         "symbol": "CBL"
     },
     {
-        "id": 181,
-        "instrument": "Equity",
-        "name": "Everest Insurance Co. Ltd.",
-        "sector": "Non Life Insurance",
-        "symbol": "EIC"
-    },
-    {
         "id": 2937,
         "instrument": "Mutual Funds",
         "name": "Sunrise Bluechip Fund",
@@ -1402,9 +1388,9 @@
     {
         "id": 610,
         "instrument": "Equity",
-        "name": "Ridi Hydropower Development Company Ltd.",
+        "name": "Ridi Power Company Limited",
         "sector": "Hydro Power",
-        "symbol": "RHPC"
+        "symbol": "RIDI"
     },
     {
         "id": 2870,
@@ -1661,9 +1647,9 @@
     {
         "id": 179,
         "instrument": "Equity",
-        "name": "Himalayan General Insurance Co. Ltd",
+        "name": "Himalayan Everest Insurance Limited",
         "sector": "Non Life Insurance",
-        "symbol": "HGI"
+        "symbol": "HEI"
     },
     {
         "id": 145,
@@ -1846,6 +1832,13 @@
         "name": "Upakar Laghubitta Bittiya Sanstha Limited",
         "sector": "Microfinance",
         "symbol": "ULBSL"
+    },
+    {
+        "id": 8065,
+        "instrument": "Equity",
+        "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "symbol": "CYCL"
     },
     {
         "id": 8066,
