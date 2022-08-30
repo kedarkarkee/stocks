@@ -1930,5 +1930,12 @@
         "name": "Upper Solu Hydro Electric Company Limited",
         "sector": "Hydro Power",
         "symbol": "USHEC"
+    },
+    {
+        "id": 8108,
+        "instrument": "Equity",
+        "name": "Rapti Hydro And General Construction Limited",
+        "sector": "Hydro Power",
+        "symbol": "RHGCL"
     }
 ]
